@@ -1,0 +1,8 @@
+Linux et Macos : 
+chmod +x mise_a_jour.sh
+./mise_a_jour.sh
+
+Windows : 
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+./mise_a_jour.ps1
+

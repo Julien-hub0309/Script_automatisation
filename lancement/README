@@ -1,0 +1,8 @@
+Linux et Macos : 
+chmod +x lancement_linux.sh
+./lancement_linux.sh
+
+Windows : 
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+./lancement_windows.ps1
+
